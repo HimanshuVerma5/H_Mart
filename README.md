@@ -39,7 +39,7 @@ GreenCart Mart provides a seamless shopping experience with product browsing, ca
 H_Mart/
 │
 ├── client/ # Frontend (React)
-├── server/ # Backend (Node + Express) [if added]
+├── server/ # Backend (Node + Express)
 ├── package.json
 └── README.md
 
