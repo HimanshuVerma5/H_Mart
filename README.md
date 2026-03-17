@@ -66,7 +66,6 @@ cd client
 npm start
 📸 Screenshots
 
-(Add your project screenshots here later)
 
 🌟 Future Enhancements
 
